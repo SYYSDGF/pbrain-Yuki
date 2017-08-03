@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Yuki.dir/main.cpp.o  -o Yuki.exe -Wl,--out-implib,libYuki.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
